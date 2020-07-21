@@ -3,7 +3,7 @@
     padding: 100px;
     border-radius: 40px;
     background: #fff;
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
     margin-top: 150px;
     display: flex;
@@ -41,6 +41,6 @@
 
 .detail__summary {
     margin-bottom: 30px;
-    font-size: 25px;
+    font-size: 22px;
     color: #2c2c2c;
 }
